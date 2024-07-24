@@ -175,7 +175,17 @@ export default class Work extends Component {
 									<div className="project-item">
 										<div className="project-img">
 											<img src="img/Project1.jpg" alt="project" />
+											<div className="project-links">
+												<a
+													href="https://docs.google.com/document/d/1APi72rHVx6yPqDQBGUmOnZVQ1tpiZ6syVOL24Snqfk8/edit"
+													title="visit project"
+													target="_blank"
+													rel="noopener noreferrer">
+													Open Document
+												</a>
+											</div>
 										</div>
+t
 										<h3>
 											<strong>
 												Market Intelligence Report and Business Model for
