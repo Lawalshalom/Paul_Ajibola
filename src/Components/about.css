@@ -1,0 +1,142 @@
+@-webkit-keyframes spin {
+	from {
+		-webkit-transform: rotateX(0deg) rotateY(0deg) rotateZ(0deg);
+	}
+	to {
+		-webkit-transform: rotateX(360deg) rotateY(360deg) rotateZ(360deg);
+	}
+}
+@-moz-keyframes spin {
+	from {
+		-moz-transform: rotateX(0deg) rotateY(0deg) rotateZ(0deg);
+	}
+	to {
+		-moz-transform: rotateX(360deg) rotateY(360deg) rotateZ(360deg);
+	}
+}
+@-ms-keyframes spin {
+	from {
+		-ms-transform: rotateX(0deg) rotateY(0deg) rotateZ(0deg);
+	}
+	to {
+		-ms-transform: rotateX(360deg) rotateY(360deg) rotateZ(360deg);
+	}
+}
+@keyframes spin {
+	from {
+		transform: rotateX(0deg) rotateY(0deg) rotateZ(0deg);
+	}
+	to {
+		transform: rotateX(360deg) rotateY(360deg) rotateZ(360deg);
+	}
+}
+.about {
+	position: relative;
+	margin-top: 15vh;
+	z-index: 1;
+	overflow: hidden;
+}
+.about h2 > span {
+	color: #ff652f;
+}
+.initial-letter {
+	color: #faf6f5;
+}
+.bio {
+	overflow: hidden;
+	margin-top: 30px;
+}
+.padding {
+	padding-top: 20px;
+}
+.bio h4 {
+	color: #ff652f;
+}
+.aboutPic {
+	height: 150px;
+	width: 150px;
+	position: relative;
+	border-radius: 70px;
+	background: url("https://res.cloudinary.com/lawfirm1000/image/upload/v1729475073/paul_PORTRAIT_1_iz1div.jpg")
+		top center / cover no-repeat;
+	border: 2px solid #ff652f;
+}
+#parent {
+	overflow: hidden;
+}
+.about-social {
+	display: flex;
+	flex-direction: column;
+	transition: all 1s;
+	position: absolute;
+	width: min-content;
+	top: 10vh;
+	right: 2rem;
+	z-index: 100;
+}
+
+.about-social i {
+	color: #fff;
+	padding: 5px;
+}
+.about-social i:hover {
+	color: #ff652f;
+	animation: rubberBand 1s;
+	transition: all 1s;
+}
+
+@media (min-width: 600px) {
+	.about-social {
+		left: 85vw;
+	}
+}
+.button {
+  display: inline-block;
+	padding: 0px 10px 5px;
+	background-color:rgba(255, 255, 255, 0.0);
+	color: #e85a01ef;
+	text-decoration: none;
+	border-radius: 7px;
+	font-weight: bold;
+	margin: 5px 5px; 
+	/* Add spacing between buttons */
+  }
+.button:hover {
+	transform: scale(1.2);
+	transition:cubic-bezier(1, 0, 0, 1);
+	box-shadow:rgba(255, 255, 255, 0.0);
+	text-shadow: #ce2abd;
+}
+.button-container {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	gap: 0px
+  }
+.button2 {
+	display: inline-block;
+	  padding: 0px 10px 5px ;
+	  /* background-color: #e78365;  */
+	  background-color: rgba(255, 255, 255, 0.0);
+	  color: #fff;
+	  text-decoration: none;
+	  border-radius: 15px;
+	  font-weight: bold;
+	  margin: 5px 5px; 
+	  border: 2px solid #201f1f;
+	  /* Add spacing between buttons */
+	}
+	.button2:hover {
+		/* background-color: rgb(230, 129, 48); */
+		transform: scale(1.1);
+		transition: transform 0.2s;
+		box-shadow: 0 5px 10px #ce2abd;
+		text-shadow: 1px 1px 2px #592004d7;
+	  }
+  
+  .tool-group {
+	display: flex;
+	flex-direction: column;
+	align-items: left;
+	margin-bottom: 0px;
+  }
