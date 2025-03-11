@@ -367,7 +367,7 @@ export default class Work extends Component {
 											<img src="img/kuda.PNG" alt="project" />
 											<div className="project-links">
 												<a
-													href="https://docs.google.com/document/d/1tM-u4o0TURLuu3L6TUmSlrX1n5jFyBa4kqmnnARy5tg/edit?usp=sharing"
+													href="https://drive.google.com/file/d/1eKvMvVs65m735D1qpr_nrgxHdlJ1v_oo/view?usp=sharing"
 													title="visit project"
 													target="_blank"
 													rel="noopener noreferrer">
