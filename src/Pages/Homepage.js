@@ -245,7 +245,7 @@ export default class Homepage extends Component {
 								aria-hidden="true"></i>
 						</a>
 							<footer data-aos="fade-down" data-aos-delay="2700">
-								&copy; Copyright 2024
+								&copy; Copyright 2025
 							</footer>
 						</div>
 					</div>
