@@ -140,3 +140,24 @@
 	align-items: left;
 	margin-bottom: 0px;
   }
+
+  .NewButton {
+	display: inline-block;
+	  padding: 0px 10px 5px ;
+	  /* background-color: #e78365;  */
+	  background-color: rgba(255, 255, 255, 0.0);
+	  color: #fff;
+	  text-decoration: none;
+	  border-radius: 15px;
+	  font-weight: bold;
+	  margin: 5px 5px; 
+	  border: 2px solid #201f1f;
+	  /* Add spacing between buttons */
+	}
+	.NewButton:hover {
+		/* background-color: rgb(230, 129, 48); */
+		transform: scale(1.1);
+		transition: transform 0.2s;
+		box-shadow: 0 5px 10px #ce2abd;
+		text-shadow: 1px 1px 2px #592004d7;
+	}

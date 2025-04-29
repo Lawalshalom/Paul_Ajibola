@@ -237,6 +237,9 @@ export default class About extends Component {
 							</div>
 						</div>
 					</div>
+
+					
+
 					<div className="about-social">
 						{/* <a
 							href="https://web.facebook.com/paul.ajibola.397"

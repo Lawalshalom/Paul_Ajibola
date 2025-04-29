@@ -218,7 +218,47 @@ export default class Work extends Component {
 									</div>
 								</div>
 
-							
+									<div className="col-lg-6 col-md-6 col-sm-12">
+									<div className="project-item">
+										<div className="project-img">
+											<img src="img/Telex.png" alt="project" />
+											<div className="project-links">
+												<a
+													href="https://telex.im/"
+													title="visit project"
+													target="_blank"
+													rel="noopener noreferrer">
+													Telex 1.0
+												</a>
+											</div>
+										</div>
+										<h3>
+											<strong>Telex 1.0</strong>
+										</h3>
+										<p>
+											The Telex 1.0 App is a solution that uses AI-powered agents to streamline team 
+											communication by reducing distractions and automating repetitive tasks. Like slack, it
+											is a more advanced alternative that allows clear communication alongside monitoring functions; which 
+											include application performance, cloud, database monitoring, log analysis, webhook testing and uptime monitoring.
+										</p>
+										<p>
+											As one of the product managers in a team of product managers, I was responsible for versioning
+											the features that make up the product. Additionally, I was collaboratively responsible for developing and managing
+											the PRD for Telex 1.0. 
+										</p>
+										<p className="tech">
+											<strong>Tools:</strong>
+											<button className="button">Linear</button>
+											<button className="button">Github</button>
+											<button className="button">Figma</button>
+											<button className="button">Notion</button>
+											<button className="button">Google Workspace (Docs, Slides, Sheets)</button>
+											<button className="button">Slack</button>
+										</p>
+									</div>
+								</div>
+
+
 									{/* Template */}
 								{/* <div className="col-lg-6 col-md-6 col-sm-12">
 									<div className="project-item">
@@ -488,6 +528,41 @@ export default class Work extends Component {
 										</p>
 									</div>
 								</div>
+								<div className="col-lg-6 col-md-6 col-sm-12">
+									<div className="project-item">
+										<div className="project-img">
+											<img src="img/stakeholders.png" alt="project" />
+											<div className="project-links">
+												<a
+													href="https://docs.google.com/document/d/1TNPtLkLKES2XboUrkFweD8LUzgIMQkzNYIA3mB7P82Q/edit?usp=sharing"
+													title="visit project"
+													target="_blank"
+													rel="noopener noreferrer">
+													View Communication Plan
+												</a>
+											</div>
+										</div>
+										<h5>
+											<strong>Stakeholders' Communication</strong>
+										</h5>
+										<p>
+											NairaTech, fintach application, is an hypothetical application. The goal of this stakeholders'
+											communication was to showcase my communication skills in situations where there is a technical 
+											debt and the development team is falling behind on their deliverables. I showcase here, in clear terms,
+											the what, why and where of the progress of an hypothetical project.  
+										</p>
+										<p>
+											
+										</p>
+										<p className="tech">
+											<strong>Tools:</strong>
+											<button className="button">Search Engine (Google, Bing, Yahoo)</button>
+											<button className="button">Google Docs</button>
+											<button className="button">Canva</button>
+										</p>
+									</div>
+								</div>
+
 									{/* Template */}
 								{/* <div className="col-lg-6 col-md-6 col-sm-12">
 									<div className="project-item">
