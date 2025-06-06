@@ -93,6 +93,10 @@ export default class About extends Component {
 									rel="noopener noreferrer"
 									download="PaulAJIBOLA_Resume.pdf">Download My Resume</a>
 								</button>
+								<button className="button2">
+									<a href="https://paul-ajibola.netlify.app/work" 
+									rel="noopener noreferrer">See Project Section &#8594;</a>
+								</button>
 								<p data-aos="fade-right" data-aos-delay="100">
 									<em>Hey there! &#x1F44B; </em>
 								</p>
@@ -195,7 +199,7 @@ export default class About extends Component {
 									<div
 									className="about-text col-lg-12 col-md-12 col-12"
 									data-aos="fade-up" data-aos-delay="250">
-										<button className="button">Programming Languages</button> <span>HTML, CSS, Javascript (Intermediate), SQL</span> <br/>
+										<button className="button">Programming Languages</button> <span>HTML, CSS, Javascript (Intermediate), SQL, Python</span> <br/>
 										<button className="button">Soft Skills</button> <span>Collaboration, Critical thinking, Leadership, Problem Solving, Business Acumen, Adaptability. </span> <br/>
 									</div>
 								</div>
@@ -223,7 +227,7 @@ export default class About extends Component {
 									<p data-aos="fade-up" data-aos-delay="350">
 										<i>Three core values shape and define who I am. They are excellence, a lifelong commitment to personal growth and balance. Excellence drives me to always strive 
 										for the highest quality in everything I do, fueling in me a desire to continually commit to lifelong learning. 
-										I also believe in finding harmony between work, personal life, and self-care. I consider these three to be very important to me.</i> 
+										I also believe in finding harmony between work, personal life, and self-care. These three things form the core of my person.</i> 
 									</p>
 
 									<h6 data-aos="fade-up" data-aos-delay="450" class="padding"><b><span className= "initial-letter">Outside Managing Products, The Things I Love to Do &#x2764;&#xfe0f;</span></b></h6>
@@ -233,7 +237,13 @@ export default class About extends Component {
 										Occasionally, I also write songs. Other times, I just enjoy bingeing YouTube clips of Lionel Messi. Honestly, I think he is the best
 										thing that ever happened to football. No offence, if you are a Ronaldo fan!</i>
 									</p>
+									<button className="button2">
+									<a href="https://paul-ajibola.netlify.app/work" 
+									rel="noopener noreferrer">See Project Section &#8594;</a>
+									</button>
 								</div>
+							</div>
+							<div>
 							</div>
 						</div>
 					</div>

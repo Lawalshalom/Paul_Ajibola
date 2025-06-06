@@ -54,13 +54,13 @@ export default class Work extends Component {
 								<li onClick={this.handleClick}>
 									<Link to="/">Home</Link>
 								</li>
+								<li onClick={this.handleClick}>
+									<Link to="/about">About</Link>
+								</li>
 								<li>
 									<Link to="/work" className="active">
 										Work
 									</Link>
-								</li>
-								<li onClick={this.handleClick}>
-									<Link to="/about">About</Link>
 								</li>
 								<li onClick={this.handleClick}>
 									<Link to="/contact">Contact Me</Link>
@@ -86,6 +86,10 @@ export default class Work extends Component {
 										Let's <span>Explore</span> My <span>Work</span>
 									</h2>
 								</div>
+								<button className="button2">
+									<a href="https://paul-ajibola.netlify.app/contact" 
+									rel="noopener noreferrer">See Contact Me Section &#8594;</a>
+								</button>
 								<p>
 								Welcome to my product showcase! Here, you'll find a selection 
 								of products I've worked on throughout my journey as a product manager.
@@ -237,14 +241,14 @@ export default class Work extends Component {
 										</h3>
 										<p>
 											The Telex 1.0 App is a solution that uses AI-powered agents to streamline team 
-											communication by reducing distractions and automating repetitive tasks. Like slack, it
-											is a more advanced alternative that allows clear communication alongside monitoring functions; which 
-											include application performance, cloud, database monitoring, log analysis, webhook testing and uptime monitoring.
+											communication by reducing distractions and automating repetitive tasks. Like slack, 
+											except that it is a more advanced alternative, Telex 1.0 allows clear communication alongside monitoring functions: which 
+											include application performance, cloud monitoring, database monitoring, log analysis, webhook testing and uptime monitoring.
 										</p>
 										<p>
-											As one of the product managers in a team of product managers, I was responsible for versioning
-											the features that make up the product. Additionally, I was collaboratively responsible for developing and managing
-											the PRD for Telex 1.0. 
+											As one of the product managers in a team of product managers, I was <b>responsible for versioning
+											the features </b>that make up the product. Additionally, I was collaboratively <b>responsible for developing and managing
+											the PRD and product backlog </b>for the development of Telex 1.0. 
 										</p>
 										<p className="tech">
 											<strong>Tools:</strong>
@@ -546,13 +550,16 @@ export default class Work extends Component {
 											<strong>Stakeholders' Communication</strong>
 										</h5>
 										<p>
-											NairaTech, fintach application, is an hypothetical application. The goal of this stakeholders'
-											communication was to showcase my communication skills in situations where there is a technical 
+											NairaTech, a fintech application, is an hypothetical application. The goal of this stakeholders'
+											communication was to <b>showcase my communication skills</b> in situations where there is a technical 
 											debt and the development team is falling behind on their deliverables. I showcase here, in clear terms,
 											the what, why and where of the progress of an hypothetical project.  
 										</p>
 										<p>
-											
+											Carefully curated, but entirely hypothetical, the document highlights <b>the initial timeline of the project,
+											issues encountered during development, possible solutions, recommended solutions, and an updated timeline </b>
+											for the possible delivery of the feature. The goal of this project was to showcase my stakeholders' communication
+											skills and ability to <b>manage, restrategize and execute when unforeseen circumstances</b> arise. 
 										</p>
 										<p className="tech">
 											<strong>Tools:</strong>
@@ -562,7 +569,7 @@ export default class Work extends Component {
 										</p>
 									</div>
 								</div>
-
+									
 									{/* Template */}
 								{/* <div className="col-lg-6 col-md-6 col-sm-12">
 									<div className="project-item">
