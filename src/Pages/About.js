@@ -130,10 +130,10 @@ export default class About extends Component {
 									fostering a deeper understanding of user needs, market dynamics, and the importance of 
 									data-driven decision-making.
 									</p>
-									<p data-aos="fade-up" data-aos-delay="450">
+									{/* <p data-aos="fade-up" data-aos-delay="450">
 										My ultimate aspiration is to someday <b>become an AI product manager</b>. In this role, 
 										I envision myself building and managing AI solutions that address real human problems. 
-									</p>
+									</p> */}
 								</div>
 
 								<div className="bio">
