@@ -206,7 +206,7 @@ export default class Homepage extends Component {
                       	Welcome to my portfolio page! 
                         </p>
                         <em data-aos="fade-up" data-aos-delay="2100">
-                        "…I empower companies to launch intelligent, market-leading products that deliver real valuedd"
+                        "…I empower companies to launch intelligent, market-leading products that deliver real value"
                         </em>
 						<div className="get-started">
 							<Link to="/about" data-aos="fade" data-aos-delay="2500">
