@@ -493,7 +493,7 @@ export default class Work extends Component {
 											<img src="img/Fitbit.PNG" alt="project" />
 											<div className="project-links">
 												<a
-													href="https://docs.google.com/document/d/1Hw0yaeqkf4aVwKCVdpqiXCdkJCcda1HMJwLwmsJO1Bw/edit?usp=sharing"
+													href="https://docs.google.com/document/d/1Haeqkf4aVwKCVdpqiXCdkJCcda1HMJwLwmsJO1Bw/edit?usp=sharing"
 													title="visit project"
 													target="_blank"
 													rel="noopener noreferrer">
