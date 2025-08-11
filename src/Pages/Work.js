@@ -262,6 +262,47 @@ export default class Work extends Component {
 									</div>
 								</div>
 
+								<div className="col-lg-6 col-md-6 col-sm-12">
+									<div className="project-item">
+										<div className="project-img">
+											<img src="img/dryklin.jpg" alt="project" />
+											<div className="project-links">
+												<a
+													href="https://drive.google.com/file/d/11ewNACrWbSl3yvAt_Rwupsq7n56iLbw8/view?usp=sharing"
+													title="visit project"
+													target="_blank"
+													rel="noopener noreferrer">
+													Dry Klin
+												</a>
+											</div>
+										</div>
+										<h3>
+											<strong>DryKlin Mobile App (MVP)</strong>
+										</h3>
+										<p>
+											DryKlin is a mobile app that helps users manage their laundry needs from a phone. 
+											It simplifies the entire process by allowing for scheduling of pick-up and drop-off times, 
+											offering different services like wash-and-fold or dry cleaning, and enabling order tracking. 
+											The app also includes secure payment options and a simple way to contact customer support, 
+											making it a smart solution for getting laundry done.
+										</p>
+										<p>
+											As the product managers, As a product manager, I worked with stakeholders to <b>set the product vision and prioritize features</b> for the DryKlin mobile app. 
+											I also <b>analyzed user feedback to guide product development </b> and 
+											<b>collaborated with UI/UX and development teams to deliver the final MVP.</b>
+										</p>
+										<p className="tech">
+											<strong>Tools:</strong>
+											<button className="button">Jira</button>
+											<button className="button">Github</button>
+											<button className="button">Figma</button>
+											<button className="button">Notion</button>
+											<button className="button">Google Workspace (Docs, Slides, Sheets)</button>
+											<button className="button">Slack</button>
+										</p>
+									</div>
+								</div>
+
 
 									{/* Template */}
 								{/* <div className="col-lg-6 col-md-6 col-sm-12">
