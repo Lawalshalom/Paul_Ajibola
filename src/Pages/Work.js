@@ -265,7 +265,7 @@ export default class Work extends Component {
 								<div className="col-lg-6 col-md-6 col-sm-12">
 									<div className="project-item">
 										<div className="project-img">
-											<img src="img/img.dryklin.jpg" alt="project" />
+											<img src="img/dryklin.jpg" alt="project" />
 											<div className="project-links">
 												<a
 													href="https://drive.google.com/file/d/11ewNACrWbSl3yvAt_Rwupsq7n56iLbw8/view?usp=sharing"
@@ -287,7 +287,7 @@ export default class Work extends Component {
 											making it a smart solution for getting laundry done.
 										</p>
 										<p>
-											As the product managers, As a product manager, I worked with stakeholders to <b>set the product vision and prioritize features</b> for the DryKlin mobile app. 
+											As a product manager, I worked with stakeholders to <b>set the product vision and prioritize features</b> for the DryKlin mobile app. 
 											I also <b>analyzed user feedback to guide product development </b> and 
 											<b>collaborated with UI/UX and development teams to deliver the MVP.</b>
 										</p>
