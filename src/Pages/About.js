@@ -88,7 +88,7 @@ export default class About extends Component {
 									</b>
 								</p>
 								<button className="button2">
-									<a href="https://drive.google.com/file/d/1S9mzR9YYozU-9jsK5uU_gR9YS-3i3Nl7/view?usp=sharing" 
+									<a href="https://drive.google.com/file/d/1_fr4zwm6Y-FE9gxOLU6Lj5UmbSws3Z5u/view?usp=sharing" 
 									target="_blank"
 									rel="noopener noreferrer"
 									download="PaulAJIBOLA_Resume.pdf">Download My Resume</a>
