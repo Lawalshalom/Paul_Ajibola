@@ -102,7 +102,7 @@ export default class About extends Component {
 								</p>
 								<p data-aos="fade-right" data-aos-delay="100">
 									It's great to have you here. I'm <b>Paul AJIBOLA</b>; an agile product manager. 
-									I'm a <b>driven,</b> <b>inquisitive,</b> and <b>excellent</b> person who has a strong desire to <b>learn</b> and <b>grow</b>. 
+									I'm a <b>driven,</b> and <b>inquisitive</b> person who has a strong desire to <b>learn</b> and <b>grow</b>. 
 									I'm passionate about using technology to build <b>innovative solutions</b> that address real-world challenges of businesses and individuals. 
 									<br></br><b>My goal is to contribute to products that not only delight users, but also drive sustainable business growth, while also gaining more experience in the world of products.</b>
 								</p>
