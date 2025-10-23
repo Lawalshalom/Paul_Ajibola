@@ -119,7 +119,7 @@ export default class About extends Component {
 									understanding of the product development lifecycle—from ideation and strategy
 									to execution and iteration. It also ignited in me a desire for practical 
 									application, leading me to participate in the reputable HNG Tech Internship program, where
-									I finished as one of the <strong>top 500 finalists</strong> out of approximately <strong>30,000 global participants</strong>. 
+									I finished as one of the <strong>500 finalists</strong> out of approximately <strong>30,000 global participants</strong>. 
 									</p>
 									<p data-aos="fade-up" data-aos-delay="350">
 									The HNG Tech internship program provided me a dynamic and enabling environment where I had the opportunity to 
