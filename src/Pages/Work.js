@@ -530,24 +530,13 @@ export default class Work extends Component {
 								
 							
 								
-								<div className="col-lg-6 col-md-6 col-sm-12">
-									<div className="project-item">
-										<div className="project-img">
-											<img src="img/PSD.png" alt="project" />
-											<div className="project-links">
-												<a
-													href="https://drive.google.com/file/d/1YCbgE3cV6DxJQAXix1i3LY-310QfS37Q/view?usp=sharing"
-													title="visit project"
-													target="_blank"
-													rel="noopener noreferrer">
-													Visit ProLink (PSD)
-												</a>
-											</div>
-										</div>
-										<h5>
+								{/* <div className="col-lg-6 col-md-6 col-sm-12"> */}
+									{/* <div className="project-item"> */}
+										{/*  */}
+										{/* <h5>
 											<strong>ProLink (Product Strategy Document)</strong>
-										</h5>
-										<p>
+										</h5> */}
+										{/* <p>
 										ProLink is a hypothetical web and mobile application designed to revolutionize video
 										conferencing experience. With the target audience being professionals within the age brackets
 										of 25 - 50 years, ProLink offers virtual event hosting and networking
@@ -560,8 +549,8 @@ export default class Work extends Component {
 										action plan.</b> I demonstrate here my <b>strong planning abilities to break down complex projects into 
 										achievable milestones.</b> My approach ensures alignment with business goals while also addressing 
 										potential challenges effectively.
-										</p>
-										<p className="tech">
+										</p> */}
+										{/* <p className="tech">
 											<strong>Tools:</strong>
 											<button className="button">Search Engine (Google, Bing, Yahoo)</button>
 											<button className="button">Jira</button>
@@ -570,12 +559,12 @@ export default class Work extends Component {
 											<button className="button">Figma</button>
 											<button className="button">Notion</button>
 											<button className="button">Canva</button>
-										</p>
-									</div>
-								</div>
-								<div className="col-lg-6 col-md-6 col-sm-12">
-									<div className="project-item">
-										<div className="project-img">
+										</p> */}
+									{/* </div> */}
+								{/* </div> */}
+								{/* <div className="col-lg-6 col-md-6 col-sm-12"> */}
+									{/* <div className="project-item"> */}
+										{/* <div className="project-img">
 											<img src="img/stakeholders.png" alt="project" />
 											<div className="project-links">
 												<a
@@ -586,30 +575,30 @@ export default class Work extends Component {
 													View Communication Plan
 												</a>
 											</div>
-										</div>
-										<h5>
+										</div> */}
+										{/* <h5>
 											<strong>Stakeholders' Communication</strong>
-										</h5>
-										<p>
+										</h5> */}
+										{/* <p>
 											NairaTech, a fintech application, is an hypothetical application. The goal of this stakeholders'
 											communication was to <b>showcase my communication skills</b> in situations where there is a technical 
 											debt and the development team is falling behind on their deliverables. I showcase here, in clear terms,
 											the what, why and where of the progress of an hypothetical project.  
-										</p>
-										<p>
+										</p> */}
+										{/* <p>
 											Carefully curated, but entirely hypothetical, the document highlights <b>the initial timeline of the project,
 											issues encountered during development, possible solutions, recommended solutions, and an updated timeline </b>
 											for the possible delivery of the feature. The goal of this project was to showcase my stakeholders' communication
 											skills and ability to <b>manage, restrategize and execute when unforeseen circumstances</b> arise. 
-										</p>
-										<p className="tech">
+										</p> */}
+										{/* <p className="tech">
 											<strong>Tools:</strong>
 											<button className="button">Search Engine (Google, Bing, Yahoo)</button>
 											<button className="button">Google Docs</button>
 											<button className="button">Canva</button>
-										</p>
-									</div>
-								</div>
+										</p> */}
+									{/* </div> */}
+								{/* </div> */}
 									
 									{/* Template */}
 								{/* <div className="col-lg-6 col-md-6 col-sm-12">
