@@ -88,21 +88,21 @@ export default class About extends Component {
 									</b>
 								</p>
 								<button className="button2">
-									<a href="https://drive.google.com/file/d/1l7zyqhsF0B6NVULqEkqRe49kkf3EetJJ/view?usp=sharing" 
+									<a href="https://drive.google.com/file/d/1qXsVOY7DNekVzwwyc5SSt71HFJvFQSGf/view?usp=sharing" 
 									target="_blank"
 									rel="noopener noreferrer"
 									download="PaulAJIBOLA_Resume.pdf">Download My Resume</a>
 								</button>
 								<button className="button2">
 									<a href="https://paul-ajibola.netlify.app/work" 
-									rel="noopener noreferrer">See Project Section &#8594;</a>
+									rel="noopener noreferrer">See Product Section &#8594;</a>
 								</button>
 								<p data-aos="fade-right" data-aos-delay="100">
 									<em>Hey there! &#x1F44B; </em>
 								</p>
 								<p data-aos="fade-right" data-aos-delay="100">
 									It's great to have you here. I'm <b>Paul AJIBOLA</b>; an agile product manager. 
-									I'm a <b>driven,</b> and <b>inquisitive</b> person who has a strong desire to <b>learn</b> and <b>grow</b>. 
+									I'm a <b>driven</b> and <b>inquisitive</b> person who has a strong desire to <b>learn</b> and <b>grow</b>. 
 									I'm passionate about using technology to build <b>innovative solutions</b> that address real-world challenges of businesses and individuals. 
 									<br></br><b>My goal is to contribute to products that not only delight users, but also drive sustainable business growth, while also gaining more experience in the world of products.</b>
 								</p>
